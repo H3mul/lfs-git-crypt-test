@@ -1,1 +1,1 @@
-*.png  filter=lfs diff=git-crypt lfs-extensions=git-crypt
+*.png  filter=lfs diff=lfs merge=lfs -text
