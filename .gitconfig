@@ -1,8 +1,3 @@
-[lfs "extension.git-crypt"]
-	clean = git-crypt clean
-	smudge = git-crypt smudge
-	priority = 0
-
 [lfs "customtransfer.lfs-dal"]
     path = lfs-dal
 [lfs]
